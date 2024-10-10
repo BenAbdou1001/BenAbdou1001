@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ValorAgent<br>👯 I’m looking to collaborate on any Project related to Web Dev<br>🌱 I’m currently learning NextJs and TypeScript<br>💬 Ask me about anything related to react and web dev and also laravel<br>📫 How to reach me: benasslounabdallah@gmail.com
+👯 I’m looking to collaborate on any Project related to Web Dev<br>🌱 I’m currently learning NextJs and TypeScript<br>💬 Ask me about anything related to react and web dev and also laravel<br>📫 How to reach me: benasslounabdallah@gmail.com
 
 
 ## 🌐 Socials:

@@ -12,16 +12,7 @@
 <h2 align="center">🛠 Languages & Tools</h2>
 
 <div align="center">
-  <!-- Add icons for languages and tools here with uniform spacing and size -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="Tailwind CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="Redux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
   <img width="12" />

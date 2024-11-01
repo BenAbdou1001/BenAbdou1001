@@ -1,16 +1,26 @@
-<h2 align="left">👩‍💻  About Me :</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
-###
+<p align="center">
+  <strong>I'm Benassloun Abdallah from Algeria</strong><br><br>
+  🔭 Working as a <strong>Fullstack Developer</strong> <br>
+  📚 Currently learning <strong>Next.js, System Design, Moleculer Framework,</strong> and <strong>Kubernetes</strong><br>
+  📫 Reach me at: <a href="mailto:benasslounabdallah@gmail.com">benasslounabdallah@gmail.com</a>
+</p>
 
-<h6 align="left">I'm Benassloun Abdallah from Algeria<br><br>- 🔭 I’m working as a Fullstack Web Developper <br>- 📚 I'm currently learning Nextjs,System Design,moleculer framework<br>- 📫 How to reach me: benasslounabdallah@gmail.com</h6>
+---
 
-###
+<h2 align="center">🛠 Languages & Tools</h2>
 
-<h2 align="left">🛠 Language and tools :</h2>
-
-###
-
-<div align="left">
+<div align="center">
+  <!-- Add icons for languages and tools here with uniform spacing and size -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="Redux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
@@ -62,45 +72,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="center">🔥 My Stats</h2>
 
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=benabdou1001&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benabdou1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="120" alt="languages graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=benabdou1001&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=8" height="200" alt="Streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benabdou1001&locale=en&layout=compact&card_width=350&langs_count=6&theme=omni&hide_border=false" height="150" alt="Languages graph" />
 </div>
 
-###
+---
 
-<h2 align="left">📱 Social Media :</h2>
-
-###
+<h2 align="center">📱 Social Media</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdallah-benassloune/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" />
   </a>
   <a href="https://x.com/BenAbdo76298345" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo" />
   </a>
   <a href="https://www.facebook.com/PartTimeWarrior0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Facebook logo" />
   </a>
-  <a href="benasslounabdallah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:benasslounabdallah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
   </a>
   <a href="https://www.instagram.com/benabdou_86" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=benabdou1001.benabdou1001&left_color=black&right_color=purple&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=benabdou1001.benabdou1001&left_color=black&right_color=purple&left_text=Profile%20Views" />
 </div>
-
-###

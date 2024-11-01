@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm Benassloun Abdallah from Algeria<br><br>- 🔭 I’m working as a Fullstack WenDevelopper <br>- 📚 I'm currently learning Nextjs,System Design,moleculer framework<br>- 📫 How to reach me: benasslounabdallah@gmail.com</h6>
+<h6 align="left">I'm Benassloun Abdallah from Algeria<br><br>- 🔭 I’m working as a Fullstack Web Developper <br>- 📚 I'm currently learning Nextjs,System Design,moleculer framework<br>- 📫 How to reach me: benasslounabdallah@gmail.com</h6>
 
 ###
 

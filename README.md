@@ -3,7 +3,7 @@
 <p align="center">
   <strong>I'm Benassloun Abdallah from Algeria</strong><br><br>
   🔭 Working as a <strong>Fullstack Developer</strong> <br>
-  📚 Currently learning <strong>Next.js, System Design, Moleculer Framework,</strong> and <strong>Kubernetes</strong><br>
+  📚 Currently learning <strong>Next.js, System Design, Moleculer Framework,</strong><br>
   📫 Reach me at: <a href="mailto:benasslounabdallah@gmail.com">benasslounabdallah@gmail.com</a>
 </p>
 

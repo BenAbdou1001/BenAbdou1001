@@ -10,6 +10,10 @@
     .    *      .   ╚═══════════════════════╝   .      .
   .       .    *      .       .       *      .      .
 ```
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rODYzZXZzNmE5bXVhOWZ6NzNsNWFpZWRpOWNmM2MyMzM5bHA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" alt="Typing SVG" />
+</div>
+
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Building+the+Future+%F0%9F%8C%8C" alt="Typing SVG" />
@@ -18,6 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=white)](https://abdallahbenassloundev.netlify.app/)
 [![Email](https://img.shields.io/badge/📧_CONTACT-FF6B6B?style=for-the-badge)](mailto:benasslounabdallah@gmail.com)
 [![Location](https://img.shields.io/badge/📍_ALGERIA-4ECDC4?style=for-the-badge)](https://maps.google.com/?q=Algeria)
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">

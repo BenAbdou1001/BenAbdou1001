@@ -10,9 +10,7 @@
     .    *      .   ╚═══════════════════════╝   .      .
   .       .    *      .       .       *      .      .
 ```
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rODYzZXZzNmE5bXVhOWZ6NzNsNWFpZWRpOWNmM2MyMzM5bHA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" alt="Typing SVG" />
-</div>
+
 
 
 <!-- Typing SVG -->
@@ -35,7 +33,9 @@
 
 ## 🌠 WELCOME TO MY DIGITAL UNIVERSE
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9rODYzZXZzNmE5bXVhOWZ6NzNsNWFpZWRpOWNmM2MyMzM5bHA1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PZrjGkr334fXa/giphy.gif" alt="Typing SVG" />
+</div>
 
 **Software Engineering Student** | **Full Stack Web Developer** | **Based in Algeria 🇩🇿**
 

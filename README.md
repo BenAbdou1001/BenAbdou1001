@@ -71,7 +71,6 @@
 ### 💡 Learning Path
 - ⚡ **System Design & Architecture**
 - ☁️ **Cloud Infrastructure**
-- 🐍 **FastAPI & Django Backend**
 - 🤖 **Agentic AI & Automation**
 - 📚 **Web Architecture**
 

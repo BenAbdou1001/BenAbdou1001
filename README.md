@@ -8,13 +8,11 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=00D9FF&color=0D1117)](https://abdallahbenassloundev.me)
-[![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=FF6B6B)](mailto:benasslounabdallah@gmail.com)
-[![Location](https://img.shields.io/badge/📍%20Algeria-0D1117?style=for-the-badge&color=0D1117&labelColor=4ECDC4)](https://maps.google.com/?q=Algeria)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&labelColor=00D9FF&color=161B22)](https://abdallahbenassloundev.me)
+[![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&color=161B22&labelColor=00D9FF)](mailto:benasslounabdallah@gmail.com)
+[![Location](https://img.shields.io/badge/📍%20Algeria-0D1117?style=for-the-badge&color=161B22&labelColor=00D9FF)](https://maps.google.com/?q=Algeria)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -46,26 +44,14 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 <div align="center">
 
-**🔭 Currently Exploring**
+![System Design](https://img.shields.io/badge/System_Design-161B22?style=for-the-badge&labelColor=00D9FF)
+![Microservices](https://img.shields.io/badge/Event--Driven_Microservices-161B22?style=for-the-badge&labelColor=00D9FF)
+![Cloud](https://img.shields.io/badge/Cloud_Infrastructure-161B22?style=for-the-badge&labelColor=00D9FF)
+![AI](https://img.shields.io/badge/Agentic_AI-161B22?style=for-the-badge&labelColor=00D9FF)
 
-![System Design](https://img.shields.io/badge/⚡_System_Design_%26_Microservices-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
-![Cloud](https://img.shields.io/badge/☁️_Cloud_Infrastructure-0D1117?style=for-the-badge&labelColor=4ECDC4&color=0D1117)
-![AI](https://img.shields.io/badge/🤖_Agentic_AI_%26_Automation-0D1117?style=for-the-badge&labelColor=FF6B6B&color=0D1117)
-![Architecture](https://img.shields.io/badge/🏗️_Scalable_Web_Architecture-0D1117?style=for-the-badge&labelColor=A78BFA&color=0D1117)
-
-<br/>
-
-**🎨 Core Principles**
-
-![Clean Code](https://img.shields.io/badge/Clean_Code-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
-![SOLID](https://img.shields.io/badge/SOLID_Design-0D1117?style=for-the-badge&labelColor=4ECDC4&color=0D1117)
-![DX First](https://img.shields.io/badge/DX_First-0D1117?style=for-the-badge&labelColor=FF6B6B&color=0D1117)
-![Ship Fast](https://img.shields.io/badge/Ship_Fast-0D1117?style=for-the-badge&labelColor=A78BFA&color=0D1117)
-![Learn Always](https://img.shields.io/badge/Learn_Always-0D1117?style=for-the-badge&labelColor=F59E0B&color=0D1117)
+<sub>Clean Code &nbsp;·&nbsp; SOLID &nbsp;·&nbsp; DX First &nbsp;·&nbsp; Ship Fast &nbsp;·&nbsp; Learn Always</sub>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -73,69 +59,90 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 <div align="center">
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+**Daily drivers**
 
-### ⚡ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,java,python,php,laravel,cpp" />
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" title="FastAPI" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,go,postgres,docker&perline=7" />
 
-### 🗄️ Databases & APIs
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,graphql,redis,prisma,kafka" />
-<br/><br/>
-<img src="https://cdn.simpleicons.org/trpc/2596BE" height="48" title="tRPC" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" title="TanStack Query" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="48" title="Drizzle ORM" />
+**Also used**
 
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,npm,linux" />
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" title="Jira" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" title="Trello" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" title="Slack" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/notion/808080" height="48" title="Notion" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="48" title="JetBrains" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,java,php,laravel,cpp,tailwind,redux,mongodb,mysql,redis,kafka,graphql,prisma,git,github,linux,figma,postman,vscode&perline=11" />
 
-### 📐 Methodologies
-`Agile` • `Scrum` • `Kanban` • `Lean` • `Microservices` • `CI/CD`
+<sub>tRPC &nbsp;·&nbsp; Drizzle ORM &nbsp;·&nbsp; TanStack Query &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Turborepo &nbsp;·&nbsp; BullMQ</sub>
+
+<sub>Agile &nbsp;·&nbsp; Scrum &nbsp;·&nbsp; Kanban &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; CI/CD</sub>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**MCDI**](https://github.com/MicroClub-USTHB/MCDI) | MicroClub Discord Identity: API that centralises Discord identity and access, plus its admin panel, in one monorepo (top contributor, 300+ commits) | NestJS, Next.js, Drizzle, PostgreSQL, Redis, Turborepo |
-| [**Mayda Backend**](https://github.com/Mayda-enigma/mayda-backend) | REST API for a multi-restaurant platform: menus, orders, inventory, reviews, loyalty. Core of the [Mayda](https://github.com/Mayda-enigma/mayda-docs) ecosystem (107 tests) | FastAPI, SQLAlchemy, PostgreSQL, Alembic |
-| [**MicroHack Backend**](https://github.com/Microhack-3/microhack-backend) | Port terminal management system: bookings, QR gate verification, time slots, driver face authentication, AI chat assistant | Laravel, JWT, PostgreSQL |
-| [**WriteSpace**](https://github.com/BenAbdou1001/tRPC-Walkthrough) | Blogging platform with markdown editor, nested comments, likes, Stripe subscriptions and a modular end-to-end type-safe tRPC API | Next.js 14, tRPC, Drizzle, PostgreSQL |
-| [**Rafeeq**](https://github.com/Rafeeq-dz/Rafeeq-Frontend) | AI-powered educational platform for Algerian students: AI-generated exams, smart scheduling, study groups, whiteboard ([backend](https://github.com/Rafeeq-dz/Rafeeq-Backend)) | React, Vite, Express, MongoDB |
-| [**Goldify**](https://github.com/BenAbdou1001/Goldify) | Gold-shop management dashboard: sales, purchases, stock, refining, repairs, cash boxes, live gold pricing | Next.js, HeroUI, TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Much of my recent work (NestJS and Go microservices, Kafka) lives in private repositories.
+### [MCDI](https://github.com/MicroClub-USTHB/MCDI)
+Discord identity and access platform for MicroClub: API, admin panel, one monorepo. Top contributor, 300+ commits.
+
+`NestJS` `Next.js` `Drizzle` `PostgreSQL` `Redis` `Turborepo`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mayda Backend](https://github.com/Mayda-enigma/mayda-backend)
+REST API for a multi-restaurant platform: menus, orders, inventory, reviews, loyalty. 107 tests. Part of the [Mayda](https://github.com/Mayda-enigma/mayda-docs) ecosystem.
+
+`FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MicroHack Backend](https://github.com/Microhack-3/microhack-backend)
+Port terminal management: bookings, QR gate verification, time slots, driver face authentication, AI chat assistant.
+
+`Laravel` `JWT` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### [WriteSpace](https://github.com/BenAbdou1001/tRPC-Walkthrough)
+Blogging platform with markdown editor, nested comments, likes, Stripe subscriptions and a modular type-safe tRPC API.
+
+`Next.js` `tRPC` `Drizzle` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Rafeeq](https://github.com/Rafeeq-dz/Rafeeq-Frontend)
+AI-powered educational platform for Algerian students: AI-generated exams, smart scheduling, study groups. [Backend](https://github.com/Rafeeq-dz/Rafeeq-Backend).
+
+`React` `Vite` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### [Goldify](https://github.com/BenAbdou1001/Goldify)
+Gold-shop management dashboard: sales, purchases, stock, refining, repairs, cash boxes, live gold pricing.
+
+`Next.js` `HeroUI` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<sub>Much of my recent work (NestJS and Go microservices, Kafka) lives in private repositories.</sub>
 
 ## 🤝 Teams & Communities
 
-| Team | What I do there |
-|---|---|
-| [**hemolabs**](https://github.com/hemolabs) | Building laboratory software for Algerian healthcare: contributing to **HemoBox**, a Laboratory Information System being rewritten from Python/FastAPI to NestJS with Domain-Driven Design |
-| [**MicroClub-USTHB**](https://github.com/MicroClub-USTHB) | Core contributor on **MCDI**, the club's Discord identity and access platform |
-| [**Mayda**](https://github.com/Mayda-enigma) | Main backend contributor on a multi-restaurant ordering and management platform |
-| [**MicroHack**](https://github.com/Microhack-3) | Hackathon team: built the port-terminal booking backend |
-| [**Rafeeq**](https://github.com/Rafeeq-dz) | Co-built an AI-powered educational platform for Algerian students |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+- [**hemolabs**](https://github.com/hemolabs): laboratory software for Algerian healthcare. Contributing to **HemoBox**, a Laboratory Information System being rewritten from Python/FastAPI to NestJS with Domain-Driven Design.
+- [**MicroClub-USTHB**](https://github.com/MicroClub-USTHB): core contributor on **MCDI**, the club's Discord identity and access platform.
+- [**Mayda**](https://github.com/Mayda-enigma): main backend contributor on a multi-restaurant ordering and management platform.
+- [**MicroHack**](https://github.com/Microhack-3): hackathon team that built the port-terminal booking backend.
+- [**Rafeeq**](https://github.com/Rafeeq-dz): co-built an AI-powered educational platform for Algerian students.
 
 ---
 
@@ -149,13 +156,11 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=benabdou1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=benabdou1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
 
 <br/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -165,11 +170,11 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-benassloune/)
-[![Twitter / X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BenAbdo76298345)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/PartTimeWarrior0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benabdou_86)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benasslounabdallah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/abdallah-benassloune/)
+[![Twitter / X](https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/BenAbdo76298345)
+[![Facebook](https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=00D9FF)](https://www.facebook.com/PartTimeWarrior0)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=00D9FF)](https://www.instagram.com/benabdou_86)
+[![Gmail](https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:benasslounabdallah@gmail.com)
 
 <br/>
 
@@ -178,7 +183,7 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=benabdou1001&color=00D9FF&style=for-the-badge&label=COSMIC+VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=benabdou1001&color=00D9FF&style=for-the-badge&label=VISITORS)
 
 <br/>
 

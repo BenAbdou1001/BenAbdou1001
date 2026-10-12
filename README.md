@@ -116,13 +116,14 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**WriteSpace**](https://github.com/BenAbdou1001/tRPC-Walkthrough) | Full-stack blogging platform: markdown editor, drafts, nested comments, likes, Stripe subscriptions, Lucia auth, and a modular end-to-end type-safe tRPC API | Next.js 14, tRPC, Drizzle, PostgreSQL |
-| [**Rafeeq Frontend**](https://github.com/Rafeeq-dz/Rafeeq-Frontend) | AI-powered educational platform for Algerian students: AI-generated exams and quizzes, smart scheduling, study groups, collaborative whiteboard | React, TypeScript, Vite, Tailwind |
-| [**Rafeeq Backend**](https://github.com/Rafeeq-dz/Rafeeq-Backend) | REST API behind Rafeeq: JWT auth, courses, classrooms, resources, Docker Compose deploy | Node.js, Express, MongoDB |
+| [**MCDI**](https://github.com/MicroClub-USTHB/MCDI) | MicroClub Discord Identity: API that centralises Discord identity and access, plus its admin panel, in one monorepo (top contributor, 300+ commits) | NestJS, Next.js, Drizzle, PostgreSQL, Redis, Turborepo |
+| [**Mayda Backend**](https://github.com/Mayda-enigma/mayda-backend) | REST API for a multi-restaurant platform: menus, orders, inventory, reviews, loyalty. Core of the [Mayda](https://github.com/Mayda-enigma/mayda-docs) ecosystem (107 tests) | FastAPI, SQLAlchemy, PostgreSQL, Alembic |
+| [**MicroHack Backend**](https://github.com/Microhack-3/microhack-backend) | Port terminal management system: bookings, QR gate verification, time slots, driver face authentication, AI chat assistant | Laravel, JWT, PostgreSQL |
+| [**WriteSpace**](https://github.com/BenAbdou1001/tRPC-Walkthrough) | Blogging platform with markdown editor, nested comments, likes, Stripe subscriptions and a modular end-to-end type-safe tRPC API | Next.js 14, tRPC, Drizzle, PostgreSQL |
+| [**Rafeeq**](https://github.com/Rafeeq-dz/Rafeeq-Frontend) | AI-powered educational platform for Algerian students: AI-generated exams, smart scheduling, study groups, whiteboard ([backend](https://github.com/Rafeeq-dz/Rafeeq-Backend)) | React, Vite, Express, MongoDB |
 | [**Goldify**](https://github.com/BenAbdou1001/Goldify) | Gold-shop management dashboard: sales, purchases, stock, refining, repairs, cash boxes, live gold pricing | Next.js, HeroUI, TypeScript |
-| [**ValorAgent**](https://github.com/BenAbdou1001/ValorAgent) | Valorant player stats and match analysis web app built on public game APIs | Next.js, TypeScript, DaisyUI |
 
-> Most of my recent backend work (NestJS, Go microservices, Kafka) lives in private repositories.
+> Much of my recent work (NestJS and Go microservices, Kafka) lives in private repositories.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

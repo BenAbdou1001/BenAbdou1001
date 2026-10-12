@@ -48,9 +48,9 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 **🔭 Currently Exploring**
 
-![System Design](https://img.shields.io/badge/⚡_System_Design_&_Microservices-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
+![System Design](https://img.shields.io/badge/⚡_System_Design_%26_Microservices-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117)
 ![Cloud](https://img.shields.io/badge/☁️_Cloud_Infrastructure-0D1117?style=for-the-badge&labelColor=4ECDC4&color=0D1117)
-![AI](https://img.shields.io/badge/🤖_Agentic_AI_&_Automation-0D1117?style=for-the-badge&labelColor=FF6B6B&color=0D1117)
+![AI](https://img.shields.io/badge/🤖_Agentic_AI_%26_Automation-0D1117?style=for-the-badge&labelColor=FF6B6B&color=0D1117)
 ![Architecture](https://img.shields.io/badge/🏗️_Scalable_Web_Architecture-0D1117?style=for-the-badge&labelColor=A78BFA&color=0D1117)
 
 <br/>
@@ -99,7 +99,7 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="48" title="Slack" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/notion/FFFFFF" height="48" title="Notion" />
+<img src="https://cdn.simpleicons.org/notion/808080" height="48" title="Notion" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="48" title="JetBrains" />
 
@@ -114,15 +114,26 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [Miqat-Server](https://github.com/BenAbdou1001/Miqat-Server) | NestJS backend for a prayer-anchored deep-work planner | TypeScript, NestJS |
-| [GoldManagmentStor_Server](https://github.com/BenAbdou1001/GoldManagmentStor_Server) | Server for a gold store management system | TypeScript |
-| [api-proxy](https://github.com/BenAbdou1001/api-proxy) | API proxy service | Java |
-| [kafka-go](https://github.com/BenAbdou1001/kafka-go) | Kafka experiments in Go | Go |
-| [tRPC-Walkthrough](https://github.com/BenAbdou1001/tRPC-Walkthrough) | End-to-end type-safe APIs with tRPC | TypeScript |
-| [ValorAgent](https://github.com/BenAbdou1001/ValorAgent) | Valorant player stats and match analysis web app | TypeScript |
-| [AquaTrack-Platform](https://github.com/BenAbdou1001/AquaTrack-Platform) | Aquaculture sensor monitoring platform and API | Python, TypeScript |
+| [**MCDI**](https://github.com/MicroClub-USTHB/MCDI) | MicroClub Discord Identity: API that centralises Discord identity and access, plus its admin panel, in one monorepo (top contributor, 300+ commits) | NestJS, Next.js, Drizzle, PostgreSQL, Redis, Turborepo |
+| [**Mayda Backend**](https://github.com/Mayda-enigma/mayda-backend) | REST API for a multi-restaurant platform: menus, orders, inventory, reviews, loyalty. Core of the [Mayda](https://github.com/Mayda-enigma/mayda-docs) ecosystem (107 tests) | FastAPI, SQLAlchemy, PostgreSQL, Alembic |
+| [**MicroHack Backend**](https://github.com/Microhack-3/microhack-backend) | Port terminal management system: bookings, QR gate verification, time slots, driver face authentication, AI chat assistant | Laravel, JWT, PostgreSQL |
+| [**WriteSpace**](https://github.com/BenAbdou1001/tRPC-Walkthrough) | Blogging platform with markdown editor, nested comments, likes, Stripe subscriptions and a modular end-to-end type-safe tRPC API | Next.js 14, tRPC, Drizzle, PostgreSQL |
+| [**Rafeeq**](https://github.com/Rafeeq-dz/Rafeeq-Frontend) | AI-powered educational platform for Algerian students: AI-generated exams, smart scheduling, study groups, whiteboard ([backend](https://github.com/Rafeeq-dz/Rafeeq-Backend)) | React, Vite, Express, MongoDB |
+| [**Goldify**](https://github.com/BenAbdou1001/Goldify) | Gold-shop management dashboard: sales, purchases, stock, refining, repairs, cash boxes, live gold pricing | Next.js, HeroUI, TypeScript |
+
+> Much of my recent work (NestJS and Go microservices, Kafka) lives in private repositories.
+
+## 🤝 Teams & Communities
+
+| Team | What I do there |
+|---|---|
+| [**hemolabs**](https://github.com/hemolabs) | Building laboratory software for Algerian healthcare: contributing to **HemoBox**, a Laboratory Information System being rewritten from Python/FastAPI to NestJS with Domain-Driven Design |
+| [**MicroClub-USTHB**](https://github.com/MicroClub-USTHB) | Core contributor on **MCDI**, the club's Discord identity and access platform |
+| [**Mayda**](https://github.com/Mayda-enigma) | Main backend contributor on a multi-restaurant ordering and management platform |
+| [**MicroHack**](https://github.com/Microhack-3) | Hackathon team: built the port-terminal booking backend |
+| [**Rafeeq**](https://github.com/Rafeeq-dz) | Co-built an AI-powered educational platform for Algerian students |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -141,12 +152,6 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 <img src="https://streak-stats.demolab.com?user=benabdou1001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=benabdou1001&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=benabdou1001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 

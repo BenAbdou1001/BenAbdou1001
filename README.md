@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%8E%93;Full+Stack+%26+Backend+Developer+%F0%9F%9A%80;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%8C%8C" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=00D9FF&color=0D1117)](https://abdallahbenassloundev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0D1117?style=for-the-badge&logoColor=00D9FF&labelColor=00D9FF&color=0D1117)](https://abdallahbenassloundev.me)
 [![Email](https://img.shields.io/badge/📧%20Email-0D1117?style=for-the-badge&color=0D1117&labelColor=FF6B6B)](mailto:benasslounabdallah@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Algeria-0D1117?style=for-the-badge&color=0D1117&labelColor=4ECDC4)](https://maps.google.com/?q=Algeria)
 
@@ -31,14 +31,14 @@
 
 ```yaml
 name:     Benassloun Abdallah
-role:     Full Stack Web Developer
-status:   Software Engineering Student
+role:     Full Stack & Backend Developer
+status:   Software Engineer
 location: Algeria 🇩🇿
-focus:    Scalable Systems & Clean Architecture
+focus:    NestJS, Go & Event-Driven Systems
 ```
 
-I navigate the infinite possibilities of code, crafting scalable systems and exploring the bleeding edge of web technologies.
-My goal is to ship products that are fast, beautiful, and maintainable.
+Successful code is written for humans before machines.
+I build scalable backends and polished web apps with TypeScript, NestJS, Go and Next.js, and I care about clean architecture and maintainable products.
 
 </td>
 </tr>
@@ -77,18 +77,16 @@ My goal is to ship products that are fast, beautiful, and maintainable.
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 
 ### ⚡ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,java,python,cpp" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,java,python,php,laravel,cpp" />
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" title="FastAPI" />
 
 ### 🗄️ Databases & APIs
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,graphql,redis,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,graphql,redis,prisma,kafka" />
 <br/><br/>
 <img src="https://cdn.simpleicons.org/trpc/2596BE" height="48" title="tRPC" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" title="TanStack Query" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="48" title="Cassandra" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="48" title="Drizzle ORM" />
 
@@ -109,6 +107,22 @@ My goal is to ship products that are fast, beautiful, and maintainable.
 `Agile` • `Scrum` • `Kanban` • `Lean` • `Microservices` • `CI/CD`
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Miqat-Server](https://github.com/BenAbdou1001/Miqat-Server) | NestJS backend for a prayer-anchored deep-work planner | TypeScript, NestJS |
+| [GoldManagmentStor_Server](https://github.com/BenAbdou1001/GoldManagmentStor_Server) | Server for a gold store management system | TypeScript |
+| [api-proxy](https://github.com/BenAbdou1001/api-proxy) | API proxy service | Java |
+| [kafka-go](https://github.com/BenAbdou1001/kafka-go) | Kafka experiments in Go | Go |
+| [tRPC-Walkthrough](https://github.com/BenAbdou1001/tRPC-Walkthrough) | End-to-end type-safe APIs with tRPC | TypeScript |
+| [ValorAgent](https://github.com/BenAbdou1001/ValorAgent) | Valorant player stats and match analysis web app | TypeScript |
+| [AquaTrack-Platform](https://github.com/BenAbdou1001/AquaTrack-Platform) | Aquaculture sensor monitoring platform and API | Python, TypeScript |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 

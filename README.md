@@ -125,6 +125,16 @@ I build scalable backends and polished web apps with TypeScript, NestJS, Go and 
 
 > Much of my recent work (NestJS and Go microservices, Kafka) lives in private repositories.
 
+## 🤝 Teams & Communities
+
+| Team | What I do there |
+|---|---|
+| [**hemolabs**](https://github.com/hemolabs) | Building laboratory software for Algerian healthcare: contributing to **HemoBox**, a Laboratory Information System being rewritten from Python/FastAPI to NestJS with Domain-Driven Design |
+| [**MicroClub-USTHB**](https://github.com/MicroClub-USTHB) | Core contributor on **MCDI**, the club's Discord identity and access platform |
+| [**Mayda**](https://github.com/Mayda-enigma) | Main backend contributor on a multi-restaurant ordering and management platform |
+| [**MicroHack**](https://github.com/Microhack-3) | Hackathon team: built the port-terminal booking backend |
+| [**Rafeeq**](https://github.com/Rafeeq-dz) | Co-built an AI-powered educational platform for Algerian students |
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
